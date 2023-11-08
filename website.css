@@ -1,0 +1,140 @@
+body{
+    background-color: #000;
+   
+}
+
+*{
+    padding: 0 23px;
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;  
+    
+}
+nav a{
+    display: inline-block;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: white; 
+    font-size: 20px;   
+    
+           
+} 
+
+img{
+    display: block;
+    max-width: 100%;
+    font-size: 100%;
+    float: right;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+    justify-content: center;
+    align-items: center;
+    padding-left: 200px;
+    padding-right: 50px;
+}
+nav ul li a:hover{
+    color: greenyellow;
+    transition: .4s;
+}
+.content{
+    position:absolute;
+    top: 38%;
+    left: 15%;
+    transform: translateY(-50%);
+}
+h1{
+    color: white;
+    margin: 20px 0px 20px;
+    font-size: 50px;
+}
+h4{
+    color:white;
+    margin: 20px 0px 20px;
+    font-size: 75px;
+}
+span{
+    color: rgb(13, 231, 13);
+}
+h3{
+    color:white;
+    margin: 20px 0px 20px;
+    font-size: 50px; 
+}
+h2{
+    color:white;
+    margin: 20px 0px 20px;
+    font-size: 50px; 
+} 
+.about{
+    width: 100%;
+    padding: 100px 0px;
+} 
+
+#cornerimg{
+    position: absolute;
+    height: auto;
+    width: 430px;
+    top: 1200px;
+    left: 100px;
+    float:left;
+    border-radius: 100px;
+}
+.about-text{
+    width: 550px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.about-text h8{
+    color:white;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+
+}
+h8{
+    position: absolute;
+    top: 1200px;
+    left: 570px;
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para1{
+    position: absolute;
+    margin-right: 15%;
+    width: px;
+    top: 1295px;
+    left: 590px;
+    color: white;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para2{
+    position: absolute;
+    width: px;
+    top: 1520px;
+    left: 590px;
+    color: white;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
